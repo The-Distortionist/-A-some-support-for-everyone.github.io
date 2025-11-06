@@ -1,0 +1,86 @@
+body {
+
+/* ûåÖ¢ñ ããñÐÆ· ëñ¬ÐÞ¦¨Ð· Æ Æ ÆÔÖØÆ· */
+.box {
+
+  display: inline-block;
+  text-decoration: none;       /* ç¢·á ¨Ò ØÖ¦û„áÆ·ë Ô·¨ */
+  padding: 10px 20px;
+  margin: 10px 0;
+  border: 2px solid #4CAF50;
+  border-radius: 8px;
+  background-color: #2E7D56;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.box:hover {
+  border-color: #A8D5BA;
+  background-color: #96C49F;
+  color: #2E7D56;
+}
+  background: linear-gradient(135deg, #487140, #1c4518);
+  min-height: 100vh;       /* ûåÖ¢ñ ªÖÔ ó Ô·Ò Ð ëãœ ëñãÖåç ãåá Ô·¤ñ */
+  margin: 0;               /* ç¢·á ¨Ò ãå Ô¦ áåÔñ¨ ÖåãåçØñ */
+  font-family: Arial, sans-serif;
+  color: #fff;             /* ¤ë¨å å¨Æãå  ØÖ çÒÖÐû Ô·œ */
+}
+.box {
+  display: block;                   /* Æ é¦ñ½ ÷Ð¨Ò¨Ôå ó Ô·Ò ¨å ëãœ õ·á·Ôç ãåáÖÆ· */
+  padding: 10px 20px;
+  margin: 10px 0;                   /* ÖåãåçØñ Ò¨é¦ç ãåáÖÆ Ò· */
+  border: 2px solid #4CAF50;
+  border-radius: 8px;
+  transition: border-color 0.3s, color 0.3s, background-color 0.3s;
+  background-color: #2E7D56;
+  color: #fff;
+  cursor: pointer;
+  width: fit-content;               /* á ÒÆ  Ö¢µë åñë ¨å åÖÐíÆÖ å¨Æãå */
+}
+/* øªª¨Æå Øá· Ô ë¨¦¨Ô·· */
+.box:hover {
+  border-color: #A8D5BA;
+  background-color: #96C49F;
+  color: #2E7D56;
+}
+
+.container {
+.container {
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 1000px;
+  margin: auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+ó
+h1 {
+  color: #e6d1aa;
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 1.2em;
+  margin: 15px 0;
+}
+
+button {
+  background: #13311b;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 1em;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: 7e9576;
+  
+  
+}
+
+
+
+
